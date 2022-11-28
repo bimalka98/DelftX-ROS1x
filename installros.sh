@@ -47,6 +47,8 @@ install_ros_default () {
 # main function 
 main () {
     
+	# installing ROS1 default building
+	install_ros_default ()
     
 }
 
