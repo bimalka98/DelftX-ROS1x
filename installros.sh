@@ -7,7 +7,7 @@
 ################################################################################
 
 # 1. inbstalling ros noetic
-install_ros_default () {
+install_ros () {
 
     echo
     echo "==========================================================="
@@ -61,18 +61,21 @@ install_catkin() {
 
 create_ros_ws () {
 
+	# change the directory to home
+	cd
+
 	# make separate dir in home dir
 	mkdir ros && cd ros
 
 	# create a workspace
-	mkdir -p new_ros_ws/src
+	mkdir -p catkin_ws/src
 
 	# change the dir
-	cd new_ros_ws
+	cd catkin_ws
 
 	# ros is already sourced from the previous installation step
 
-	# initialize catkin
+	# initialize the catkin workspace
 	catkin init
 }
 
@@ -80,14 +83,14 @@ create_ros_ws () {
 main () {
     
 	# installing ROS1 default building
-	install_ros_default ()
+	install_ros
 
-	# install catkin
-	install_catkin()
+	# install catkin CLI tool
+	install_catkin
 
 	# create ros workspace
-	create_ros_ws ()
-    
+	create_ros_ws
+
 }
 
 main "$@"
