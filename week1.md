@@ -1,4 +1,15 @@
 # Week 1
+Welcome to the very first lesson of this ROS MOOC! Before we dive into ROS, it is helpful to know something about how ROS works internally. In this video, we will outline the ROS essentials, which are: Nodes, Topics, and how they interact. 
+
+There are two fundamental concepts in ROS, which are: Nodes and Topics. 
+
+* Nodes:
+    These are software processes that do 'stuff' (e.g. process data, command hardware, execute algorithms). Nodes provide modularity to robotic projects that use ROS. They are often written in C++ or Python. In this course, we will use Python to write them. ROS Noetic compatible with Python 3.x.
+
+* Topics:
+    Transport information between nodes, in the form of messages.
+
+In a real robot application you will often have to deal with a large number of nodes and topics. It is important to know which nodes are talking to each other, and what topics are being used to pass the information (messages) between nodes.
 
 * [1 ROS Essentials](https://youtu.be/0qUiBV94vL8)
 * [1.1 ROS Nodes](https://youtu.be/eqNDKlW3nKM)
