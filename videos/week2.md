@@ -2,6 +2,8 @@
 
 Welcome to week 2! In this week we are going to learn how to model the world using the Unified Robot Description Format. (URDF)
 
+---
+
 Modelling the robot environment is an essential part of creating a successful ROS application. With the Unified Robot Description Format (URDF) you can create a model of the factory environment that will be used in this course. By creating your own URDF model of a robot prototype, you can quickly analyze its behaviour and constraints.
 
 We will treat the following topics in URDF:

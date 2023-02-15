@@ -1,5 +1,6 @@
 # Week 6
 
+
 * [6.1 Introduction to week 6](https://youtu.be/dyTyr7l5Dzo)
 * [6.1.1 Behavior design](https://youtu.be/Slv33b9Mpxk)
 * [6.2 Behavior design with FlexBE](https://youtu.be/B5pY2dbtHck)

@@ -1,6 +1,6 @@
 # Week 0
 
-* [Welcome and course structure](https://youtu.be/daBgTxUWvtM)
+* [Welcome and Course structure](https://youtu.be/daBgTxUWvtM)
 
 During this course, we will follow a few general conventions about how we name things, what we use to show examples to students, or how we refer to certain folders on your computer. Every convention will be detailed on this page, so please read it through carefully. Not every term used here might make sense to you yet, but if you ever get confused by a term in the future please make sure to check back here!
 

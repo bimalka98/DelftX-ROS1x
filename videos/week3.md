@@ -2,8 +2,9 @@
 
 As discussed before, in our factory environment we will have 2 manipulators (robot arms) and a mobile robot. The mobile robot that we will use is the [TurtleBot](http://www.turtlebot.com/manufacturers/). We will start by introducing this mobile robot.
 
+---
 
-    What is the TurtleBot?]
+    What is the TurtleBot?
 
     TurtleBot is a mobile robot that can be purchased as a kit or fully assembled. It's a low-cost, personal robot kit with open-source software. With TurtleBot, you’ll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications.
 

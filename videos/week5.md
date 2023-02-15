@@ -1,5 +1,6 @@
 # Week 5
 
+
 * [Introduction](https://youtu.be/gIpC-i9Cybw) This week will be about basic robot vision.
 
 * [5.1 Logical camera](https://youtu.be/p7fYxaDy3JY)

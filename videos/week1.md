@@ -1,6 +1,8 @@
 # Week 1
 Welcome to the very first lesson of this ROS MOOC! Before we dive into ROS, it is helpful to know something about how ROS works internally. In this video, we will outline the ROS essentials, which are: Nodes, Topics, and how they interact. 
 
+---
+
 There are two fundamental concepts in ROS, which are: Nodes and Topics. 
 
 * Nodes:
